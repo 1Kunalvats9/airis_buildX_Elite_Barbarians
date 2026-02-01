@@ -1,13 +1,13 @@
-# AI Client Finder Agent 🤖
+# AI Client Finder Agent
 
 An autonomous AI agent that finds freelance leads, sends personalized cold emails, and tracks replies.
 
 ## Features
 
-- **🔎 Scrape:** Finds local businesses (that don't have websites) using specific niche/city combinations.
-- **💾 Store:** Saves prospects to Google Sheets.
-- **✉️ Email:** Generates personalized cold emails using AI (Groq/Llama 3) and sends them via Gmail.
-- **🧠 Track:** Polls your inbox for replies, classifies them using AI (Interested/Not Interested), and updates the sheet.
+- **Scrape:** Finds local businesses (that don't have websites) using specific niche/city combinations.
+- **Store:** Saves prospects to Google Sheets.
+- **Email:** Generates personalized cold emails using AI (Groq/Llama 3) and sends them via Gmail.
+- **Track:** Polls your inbox for replies, classifies them using AI (Interested/Not Interested), and updates the sheet.
 
 ## Prerequisites
 
